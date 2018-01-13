@@ -23,3 +23,27 @@ iframe, object, embed {
     max-width: 100%;
 }
 
+.facebook a:visited { 
+    color: blue;
+}
+.twitter a:visited { 
+    color: darkblue;
+}
+.twitter a { 
+    color: darkblue;
+}
+
+.youtube a { 
+    color: red;
+}
+.youtube a:visited { 
+    color: red;
+}
+
+.instagram a { 
+    color: orange;
+}
+
+.instagram a:visited { 
+    color: orange;
+}
