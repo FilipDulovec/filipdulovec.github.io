@@ -4,10 +4,10 @@ main {
   padding-top: 20px;
 }
 
-
 body {
   position: relative;
 }
+
 .footer {
   position: fixed;
     left: 0;
@@ -17,13 +17,14 @@ body {
   background-color: #f5f5f5;
 }
 
-
-
 iframe, object, embed {
     max-width: 100%;
 }
 
 h1 {
-
   padding-bottom: 15px;
+}
+
+a {
+  color: orange;
 }
