@@ -17,6 +17,20 @@ root: /public/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
+sliders:
+  slider1:
+    image: /img/pes.jpg
+    url:   /post1/
+    text:  slider1 text
+  slider2:
+    image: /img/pes1.jpg
+    url:   /post2/
+    text:  slider2 text
+  slider3:
+    image: /img/pes2.jpg
+    url:   /post3/
+    text:  slider3 text
+
 # Directory
 source_dir: source
 public_dir: public
