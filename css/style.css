@@ -1,0 +1,23 @@
+/*own style*/
+main {
+  padding: 120px;
+}
+
+
+body {
+  position: relative;
+}
+.footer {
+  position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  background-color: #f5f5f5;
+}
+
+
+
+iframe, object, embed {
+    max-width: 100%;
+}
