@@ -1,7 +1,6 @@
 /*own style*/
 main {
   padding: 120px;
-  padding-top: 0px
 }
 
 
@@ -13,6 +12,7 @@ body {
     left: 0;
     bottom: 0;
     width: 100%;
+    color: white;
     text-align: center;
   background-color: #f5f5f5;
 }
@@ -21,34 +21,4 @@ body {
 
 iframe, object, embed {
     max-width: 100%;
-}
-
-.facebook a:visited { 
-    color: blue;
-}
-.twitter a:visited { 
-    color: darkblue;
-}
-.twitter a { 
-    color: darkblue;
-}
-
-.youtube a { 
-    color: red;
-}
-.youtube a:visited { 
-    color: red;
-}
-
-.instagram a { 
-    color: orange;
-}
-
-.instagram a:visited { 
-    color: orange;
-}
-
-h1 {
-  padding-bottom: 20px;
-
 }
